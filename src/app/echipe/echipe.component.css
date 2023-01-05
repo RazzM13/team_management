@@ -1,0 +1,8 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+:host ::ng-deep .mat-form-field-wrapper {
+    margin: 0 !important;
+    padding: 0;
+}
